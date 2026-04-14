@@ -1,6 +1,6 @@
-## Hello!, Soy Isaac Muñoz👋
+<!-- Header -->
 
---
+## Hello!, Soy Isaac Muñoz👋
 
 <!--   Typing SVG   -->
 <a href="https://git.io/typing-svg">
@@ -8,14 +8,12 @@
 
 <!-- Redes sociales -->
 ## 🚀 Sobre mí
-Soy un estudiante de **ciberseguridad**, en la **![Universidad Tecnológica de Panamá](https://utp.ac.pa)**. Apasionado por las **redes** y la **seguridad digital**. Me enfoco en documentar, estudiar de manera independiente y realizar laboratorios propios o de plataformas en línea. Actualmente curso la carrera de **![Ciberseguridad](https://fisc.utp.ac.pa/licenciatura-en-ciberseguridad)** y sueño con convertirme en un profesional en ciberseguridad. Espero que mi perfil te sea de utilidad. Si tienes alguna duda o quieres comunicarte conmigo, no dudes en escribirme a mi correo electrónico. 
+Soy un estudiante en la **![Universidad Tecnológica de Panamá](https://utp.ac.pa)**. Apasionado por las **redes** y la **ciberseguridad**. Me enfoco en documentar, estudiar de manera independiente y realizar laboratorios propios o de plataformas en línea. Actualmente curso la carrera de **![Ciberseguridad](https://fisc.utp.ac.pa/licenciatura-en-ciberseguridad)** y sueño con convertirme en un profesional en ciberseguridad. Espero que mi perfil te sea de utilidad. Si tienes alguna duda o quieres comunicarte conmigo, no dudes en escribirme a mi correo electrónico. 
 
 - 🔭 Actualmente me dedico a mi formación como profesional en ciberseguridad, certificaciones, capacitación y teoría llevandola a la práctica.
 - 💬 Estoy buscando trabajo de manera activa como junior en ciberseguridad o redes, cualquier puesto relacionado de TI.
 - ⚙️ En este repositorio encontrarás documentación de máquinas **![HackTheBox](https://www.hackthebox.com/)**, **![TryHackMe](https://tryhackme.com/)**, así como información de mis laboratorios y proyectos.
 - Si estas leyendo esto, te invito a que me sigas y me apoyes en mi camino como profesional en ciberseguridad.
-
---
 
 <!-- Redes sociales -->
 ## Redes Sociales
@@ -23,14 +21,12 @@ Soy un estudiante de **ciberseguridad**, en la **![Universidad Tecnológica de P
     <a target="_blank" href="https://linkedin.com/in/isaacmunozp"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
     <a target="_blank" href="https://youtube.com/rgkue"><img width="50px" src="https://i.ibb.co/R0f8dFN/Youtube.png" alt="Youtube" border="0"></a>    
     <a target="_blank" href="https://instagram.com/rgkue"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="Instagram" border="0"></a>
-    <a target="_blank"> href="https://tryhackme.com/p/rgkue"><img width="50px" src="https://tryhackme.com/favicon.svg" alt="TryHackMe" border="0"></a>
-    <a target="_blank"> href="https://hackthebox.com/profile/rgkue"><img width="50px" src="https://www.hackthebox.com/hubfs/Cube_favicon.png" alt="HackTheBox" border="0"></a>
+    <a target="_blank" href="https://tryhackme.com/p/rgkue"><img width="50px" src="https://tryhackme.com/favicon.svg" alt="TryHackMe" border="0"></a>
+    <a target="_blank" href="https://hackthebox.com/profile/rgkue"><img width="50px" src="https://www.hackthebox.com/hubfs/Cube_favicon.png" alt="HackTheBox" border="0"></a>
     <!-- Pendientes -->
     <!-- <a target="_blank" href="https://twitter.com/rgkuel"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a> -->
     <!-- <a target="_blank" href="https://facebook.com/rgkue"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Twitter" border="0"></a> -->
  </p>
-
---
 
 <!-- Estadísticas de GitHub -->
 <p align="center">
@@ -44,21 +40,12 @@ Soy un estudiante de **ciberseguridad**, en la **![Universidad Tecnológica de P
     <img alt="followers" title="Visit My Portfolio" src="https://custom-icon-badges.herokuapp.com/github/stars/rgkue?color=55960c&style=for-the-badge&labelColor=581845&logo=globe&label=Visit%20Portfolio"/></a>
 </p>
 
-## Mis es tadísticas de GitHub
+## Mis estadísticas de GitHub
 <p align="center">
     <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rgkue&theme=whatsapp-dark&hide_border=true&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
 </p>
-
---
-
-## 🚀 Mi Enfoque Actual
-- 🔍 **Ciberseguridad:** Estudiando y aprendiendo sobre ciberseguridad a través de cursos, certificaciones y laboratorios de manera autodidacta.
-- 🌐 **Networking:** Realizando laboratorios en Cisco Packet Tracer y cursando el Certified Cisco Network Associate (CCNA).
-- 🛠️ **Desarrollo:** Creando herramientas de automatización en Python y Bash para pequeños proyectos.
-
---
 
 <!-- Skills y Tecnologías -->
 ## Mi Top lenguajes
@@ -75,12 +62,17 @@ Soy un estudiante de **ciberseguridad**, en la **![Universidad Tecnológica de P
     </a>
 </p>
 
---
+### 🐍 Mi Actividad
+![snake gif](https://github.com/rgkue/rgkue/blob/output/github-contribution-grid-snake.svg)
+
+## Si
 
 ## 🔗 Contacto
 <p align="center">
     <a href="mailto:rgkue@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://linkedin.com/in/isaacmunozp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://rgkue.github.io"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://paypal.me/rgkue" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+    <!-- <a href="https://ko-fi.com/rgkue" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a> -->
 </p>    
 
