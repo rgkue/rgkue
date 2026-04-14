@@ -79,4 +79,4 @@ Soy un estudiante en la **![Universidad Tecnológica de Panamá](https://utp.ac.
 
 --- 
 
-## 🌐 Puedes saber más sobre mí en [mi portafolio](https://rgkue.github.io)
+## <p align="center">🌐 Puedes saber más sobre mí en [mi portafolio](https://rgkue.github.io) </p>
