@@ -1,32 +1,86 @@
-## ¡Hola! Soy Isaac Muñoz (rgkue) 👋
+## Hello!, Soy Isaac Muñoz👋
 
+--
+
+<!--   Typing SVG   -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Times+News+Roman&weight=600&pause=1000&color=047802&center=true&vCenter=true&width=435&lines=%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%91%8B;Gracias+por+pasarte+por+aqu%C3%AD+%F0%9F%90%A7;Entusiasta+de+la+Ciberseguridad+%F0%9F%9B%A1%EF%B8%8F;Apasionado+por+las+redes+%F0%9F%8C%90;Espero+mis+repos+te+sean+%C3%BAtiles+%F0%9F%91%BE" alt="Typing SVG" /></a>
+
+<!-- Redes sociales -->
 ## 🚀 Sobre mí
-Soy un apasionado de la **ciberseguridad** y la **administración de redes**. Me enfoco en documentar procesos de hacking ético y configuración de servidores.
+Soy un estudiante de **ciberseguridad**, en la **![Universidad Tecnológica de Panamá](https://utp.ac.pa)**. Apasionado por las **redes** y la **seguridad digital**. Me enfoco en documentar, estudiar de manera independiente y realizar laboratorios propios o de plataformas en línea. Actualmente curso la carrera de **![Ciberseguridad](https://fisc.utp.ac.pa/licenciatura-en-ciberseguridad)** y sueño con convertirme en un profesional en ciberseguridad. Espero que mi perfil te sea de utilidad. Si tienes alguna duda o quieres comunicarte conmigo, no dudes en escribirme a mi correo electrónico. 
 
-- 🔭 Actualmente trabajando en: Documentación de laboratorios de malware y pentesting.
-- 🌱 Aprendiendo: Deep diving en vulnerabilidades de red y seguridad ofensiva.
-- 💬 Pregúntame sobre: Ubuntu Server, redes DHCP/DNS y simulaciones de Ransomware.
+- 🔭 Actualmente me dedico a mi formación como profesional en ciberseguridad, certificaciones, capacitación y teoría llevandola a la práctica.
+- 💬 Estoy buscando trabajo de manera activa como junior en ciberseguridad o redes, cualquier puesto relacionado de TI.
+- ⚙️ En este repositorio encontrarás documentación de máquinas **![HackTheBox](https://www.hackthebox.com/)**, **![TryHackMe](https://tryhackme.com/)**, así como información de mis laboratorios y proyectos.
+- Si estas leyendo esto, te invito a que me sigas y me apoyes en mi camino como profesional en ciberseguridad.
 
-## 🛠️ Tecnologías y Herramientas
-- **Sistemas:** Linux (Ubuntu Server), Windows.
-- **Seguridad:** MS17-010, Pentesting, Ransomware Labs.
-- **Lenguajes:** Shell, JavaScript, HTML/CSS.
+--
+
+<!-- Redes sociales -->
+## Redes Sociales
+<p align="center">
+    <a target="_blank" href="https://linkedin.com/in/isaacmunozp"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
+    <a target="_blank" href="https://youtube.com/rgkue"><img width="50px" src="https://i.ibb.co/R0f8dFN/Youtube.png" alt="Youtube" border="0"></a>    
+    <a target="_blank" href="https://instagram.com/rgkue"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="Instagram" border="0"></a>
+    <a target="_blank"> href="https://tryhackme.com/p/rgkue"><img width="50px" src="https://tryhackme.com/favicon.svg" alt="TryHackMe" border="0"></a>
+    <a target="_blank"> href="https://hackthebox.com/profile/rgkue"><img width="50px" src="https://www.hackthebox.com/hubfs/Cube_favicon.png" alt="HackTheBox" border="0"></a>
+    <!-- Pendientes -->
+    <!-- <a target="_blank" href="https://twitter.com/rgkuel"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a> -->
+    <!-- <a target="_blank" href="https://facebook.com/rgkue"><img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Twitter" border="0"></a> -->
+ </p>
+
+--
+
+<!-- Estadísticas de GitHub -->
+<p align="center">
+  <a href="https://github.com/rgkue?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/rgkue?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
+  <a href="https://github.com/rgkue?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rgkue?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add label=Follow&logoColor=white"/></a>
+
+ <a href="https://rgkue.github.io">
+    <img alt="followers" title="Visit My Portfolio" src="https://custom-icon-badges.herokuapp.com/github/stars/rgkue?color=55960c&style=for-the-badge&labelColor=581845&logo=globe&label=Visit%20Portfolio"/></a>
+</p>
+
+## Mis es tadísticas de GitHub
+<p align="center">
+    <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rgkue&theme=whatsapp-dark&hide_border=true&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </a>
+</p>
+
+--
+
+## 🚀 Mi Enfoque Actual
+- 🔍 **Ciberseguridad:** Estudiando y aprendiendo sobre ciberseguridad a través de cursos, certificaciones y laboratorios de manera autodidacta.
+- 🌐 **Networking:** Realizando laboratorios en Cisco Packet Tracer y cursando el Certified Cisco Network Associate (CCNA).
+- 🛠️ **Desarrollo:** Creando herramientas de automatización en Python y Bash para pequeños proyectos.
+
+--
+
+<!-- Skills y Tecnologías -->
+## Mi Top lenguajes
+<p align="center">
+    <a href="https://github-readme-stats-one.vercel.app/api /top-langs/?username=rgkue&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=rgkue&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </a>
+</p>
+
+## Mis Skills o tecnologías más usadas
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,github,git,py,js,postgresql,firebase,kali,vscode,md,windows&theme=dark" alt="Skills" />
+    </a>
+</p>
+
+--
 
 ## 🔗 Contacto
-- 📧 isaac.munozp2836@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/isaacmunozp)
-- 🌐 [Portafolio](https://rgkue.github.io)
-<!--
-**rgkue/rgkue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="mailto:rgkue@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/isaacmunozp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://rgkue.github.io"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</p>    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
